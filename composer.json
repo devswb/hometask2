@@ -1,0 +1,19 @@
+{
+  "name": "devswb/hometask2",
+  "description": "home task2, learning composer",
+  "type": "project",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "devswbgit",
+      "email": "devswbm@gmail.com"
+    }
+  ],
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "devswb\\hometask2\\": ""
+    }
+  }
+}
