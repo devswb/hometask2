@@ -1,6 +1,6 @@
 <?php
 
-namespace discriminantCalc;
+namespace devswb\hometask2\discriminantCalc; //прапка где лежит класс и указываем его уникальное имя
 
 class DiscriminantCalc
 {

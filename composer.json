@@ -9,8 +9,7 @@
       "email": "devswbm@gmail.com"
     }
   ],
-  "require": {
-  },
+  "require": {},
   "autoload": {
     "psr-4": {
       "devswb\\hometask2\\": ""
