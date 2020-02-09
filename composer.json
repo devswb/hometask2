@@ -1,7 +1,7 @@
 {
   "name": "devswb/hometask2",
   "description": "home task2, learning composer",
-  "type": "project",
+  "type": "library",
   "license": "MIT",
   "authors": [
     {
